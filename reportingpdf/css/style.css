@@ -1,0 +1,90 @@
+.body-login {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("../img/maslak.jpeg");
+  background-position: center; /* Mengatur posisi gambar di tengah */
+  background-repeat: no-repeat; /* Mengatur agar gambar tidak diulang */
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.login {
+  background-color: greenyellow;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin: 16px;
+  padding: 100px;
+}
+
+.form-list {
+  list-style-type: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.body-index {
+  font-family: Arial, sans-serif;
+  background-color: chartreuse;
+}
+
+.loader {
+  width: 37px;
+  position: absolute;
+  top: 134px;
+  left: 330px;
+  z-index: -1;
+  display: none;
+}
+table {
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.body-regist {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("../img/maslak.jpeg");
+  background-position: center; /* Mengatur posisi gambar di tengah */
+  background-repeat: no-repeat; /* Mengatur agar gambar tidak diulang */
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.card-regist {
+  background-color: greenyellow;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin: 16px;
+  padding: 100px;
+}
+
+.form-regist {
+  list-style-type: none;
+}
+label {
+  display: block;
+}
+.body-tambah {
+  background-color: darkturquoise;
+}
+.form-tambah {
+  list-style-type: none;
+}
+.form-ubah {
+  list-style-type: none;
+}
+.body-ubah {
+  background-color: aqua;
+}
